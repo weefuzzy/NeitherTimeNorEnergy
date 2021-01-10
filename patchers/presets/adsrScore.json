@@ -1,0 +1,45 @@
+{
+	"pattrstorage" : 	{
+		"name" : "adsrScore",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"name" : "basicFade",
+				"data" : 				{
+					"attack" : [ 15.0 ],
+					"decay" : [ 0.0 ],
+					"release" : [ 150.0 ],
+					"sustain" : [ 1.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"name" : "thunk",
+				"data" : 				{
+					"attack" : [ 30.0 ],
+					"decay" : [ 300.0 ],
+					"release" : [ 100.0 ],
+					"sustain" : [ 0.5 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"name" : "click",
+				"data" : 				{
+					"attack" : [ 1.0 ],
+					"decay" : [ 30.0 ],
+					"release" : [ 215.0 ],
+					"sustain" : [ 0.1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

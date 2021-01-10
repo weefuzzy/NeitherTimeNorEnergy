@@ -1,0 +1,65 @@
+{
+	"pattrstorage" : 	{
+		"name" : "filterScore",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"name" : "OPEN",
+				"data" : 				{
+					"mp.functionMaker::function" : [ 1000.0, 20.0, 10000.0, 0.0, 20.0, 0, 1000.0, 20.0, 0, "linear" ],
+					"mp.functionMaker::highRange[1]" : [ 10000.0 ],
+					"mp.functionMaker::lowRange[1]" : [ 20.0 ],
+					"mp.functionMaker[1]::function" : [ 1000.0, 50.0, 20000.0, 0.0, 19000.0, 0, 1000.0, 19000.0, 0, "linear" ],
+					"mp.functionMaker[1]::highRange[1]" : [ 20000.0 ],
+					"mp.functionMaker[1]::lowRange[1]" : [ 50.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"name" : "HighNarrow",
+				"data" : 				{
+					"mp.functionMaker::function" : [ 1000.0, 20.0, 10000.0, 0.0, 20.0, 0, 1000.0, 20.0, 0, "linear" ],
+					"mp.functionMaker::highRange[1]" : [ 10000.0 ],
+					"mp.functionMaker::lowRange[1]" : [ 20.0 ],
+					"mp.functionMaker[1]::function" : [ 1000.0, 50.0, 20000.0, 0.0, 19000.0, 0, 1000.0, 19000.0, 0, "linear" ],
+					"mp.functionMaker[1]::highRange[1]" : [ 20000.0 ],
+					"mp.functionMaker[1]::lowRange[1]" : [ 50.0 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"name" : "Narrowing",
+				"data" : 				{
+					"mp.functionMaker::function" : [ 1000.0, 20.0, 800.0, 0.0, 342.399994, 0, 990.079346, 685.333313, 0, "linear" ],
+					"mp.functionMaker::highRange[1]" : [ 800.0 ],
+					"mp.functionMaker::lowRange[1]" : [ 20.0 ],
+					"mp.functionMaker[1]::function" : [ 1000.0, 800.0, 3000.0, 0.0, 2736.0, 0, 1000.0, 1357.333374, 0, "linear" ],
+					"mp.functionMaker[1]::highRange[1]" : [ 3000.0 ],
+					"mp.functionMaker[1]::lowRange[1]" : [ 800.0 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"name" : "Low",
+				"data" : 				{
+					"mp.functionMaker::function" : [ 1000.0, 20.0, 800.0, 0.0, 20.0, 0, 1000.0, 20.0, 0, "linear" ],
+					"mp.functionMaker::highRange[1]" : [ 800.0 ],
+					"mp.functionMaker::lowRange[1]" : [ 20.0 ],
+					"mp.functionMaker[1]::function" : [ 1000.0, 100.0, 3000.0, 1.984127, 332.0, 0, 1000.0, 409.333344, 0, "linear" ],
+					"mp.functionMaker[1]::highRange[1]" : [ 3000.0 ],
+					"mp.functionMaker[1]::lowRange[1]" : [ 100.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
