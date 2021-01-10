@@ -1,4 +1,5 @@
-# Max Patches for the 2018 version of my piece/system Neither Time Nor Energy (Bowed Cardboard Box and Truculent Electronics)
+#  Neither Time Nor Energy
+> Max Patches for the 2018 version of my piece/system for Bowed Cardboard Box and Truculent Electronics
 
 This version has been performed at Electric Spring, 2018, Huddersfield, UK ([video](https://www.youtube.com/watch?v=VExDlHD7o80)); and the ERC, European Research Music Conference 2018, UPF, Barcelona (see [here](https://eventum.upf.edu/19834/section/12361/european-research-music-conference.html)). 
 
